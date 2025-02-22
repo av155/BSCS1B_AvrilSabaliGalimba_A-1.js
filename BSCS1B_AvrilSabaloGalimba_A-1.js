@@ -1,14 +1,14 @@
 // Student data (replace with actual student information)
 const students = [
   {
-    firstName: "Avril",
-    middleName: "Sabalo",
-    lastName: "Galimba",
-    birthdate: "April 15, 2006",
-    birthplace: "Langlangca 2nd, Candon City, Ilocos Sur, Philippines, 2710",
-    address: "Langlangca 2nd, Candón City, Ilocos Sur, Philippines, 2710",
+    firstName: "Mitzie",
+    middleName: "Agila",
+    lastName: "Ponce",
+    birthdate: "August 4, 2006",
+    birthplace: "Bulbulala, Santiago City, Ilocos Sur, Philippines, 2707",
+    address: "Bulbulala, Santiago City, Ilocos Sur, Philippines, 2707",
     course: "Bachelor of Science in Computer Science",
-    dreamJob: "Web Developer",
+    dreamJob: "Web Development",
   },
   // Add more student data here...
   {
@@ -22,14 +22,14 @@ const students = [
     dreamJob: "Software Engineer",
   },
     {
-    firstName: "Student3FirstName",
-    middleName: "Student3MiddleName",
-    lastName: "Student3LastName",
-    birthdate: "MM/DD/YYYY",
-    birthplace: "Barangay, City/Town, Country, Zip Code",
-    address: "Barangay, City/Town, Country, Zip Code",
-    course: "Course Name",
-    dreamJob: "Dream Job",
+    firstName: "Trisha Mae",
+    middleName: "Besting",
+    lastName: "Merculio",
+    birthdate: "February 2, 2006",
+    birthplace: "Palacapac, Candon City, Philipines, 2710",
+    address: "Palacapac, Candon City, Philipines, 2710",
+    course: "Computer Science",
+    dreamJob: "Artificial Intelligence",
   },
 ];
 
